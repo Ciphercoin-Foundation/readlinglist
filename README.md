@@ -17,4 +17,5 @@ https://bitcointalk.org/index.php?topic=2080206.0
 aug 13 2017:
 
 SAP report came out today that said 10% of world GDP will be stored in digital assets by 2027
+
 https://www.sap.com/trends/blockchain.html#solutions
