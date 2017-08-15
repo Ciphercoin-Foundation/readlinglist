@@ -24,4 +24,4 @@ https://www.sap.com/trends/blockchain.html#solutions
 
 aug 15 2017:
 
-zk-snarks: https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b?source=linkShare-50612f986ec-1502807902
+zk-snarks: https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b
