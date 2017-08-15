@@ -19,3 +19,9 @@ aug 13 2017:
 SAP report came out today that said 10% of world GDP will be stored in digital assets by 2027
 
 https://www.sap.com/trends/blockchain.html#solutions
+
+
+
+aug 15 2017:
+
+zk-snarks: https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b?source=linkShare-50612f986ec-1502807902
