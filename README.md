@@ -25,3 +25,15 @@ https://www.sap.com/trends/blockchain.html#solutions
 aug 15 2017:
 
 zk-snarks: https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b
+
+
+aug 17:
+
+satoshi nakamoto bitcoin paper draft from 2008
+https://www.gwern.net/docs/20081003-nakamoto-bitcoindraft.pdf
+
+discussion of versions of the whitepaper in
+
+https://www.gwern.net/docs/2008-nakamoto
+
+
