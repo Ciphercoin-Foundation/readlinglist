@@ -34,7 +34,7 @@ The charter of this working group is design, implement, build, test, and deploy 
 
 ## Mailing list
 
-A publicly archived, members-only mailing list is available.  [Signup page] (http://onhoot.us16.list-manage.com/subscribe/post?u=615a14cc087e7296fd50a2f62&id=7ea249aaa3), [Google groups](https://groups.google.com/forum/#!forum/onhoot)
+A publicly archived, members-only mailing list is available.  [Signup page](http://onhoot.us16.list-manage.com/subscribe/post?u=615a14cc087e7296fd50a2f62&id=7ea249aaa3), [Google groups](https://groups.google.com/forum/#!forum/onhoot)
 
 ## Projects
 
