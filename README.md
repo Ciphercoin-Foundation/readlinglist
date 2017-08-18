@@ -43,7 +43,7 @@ The initial effort of the working group focuses on producing a hootcoin referenc
 
 ## Other resources
 
-* [Work in Progress / WIP] SegWit2x [Token sale](http://onhoot.com/tokensale)
+* [Work in Progress / WIP]  [Token sale](http://onhoot.com/tokensale)
 
 (Add links to projects, such as programming libraries and wallets, that are hootcoin focussed)
 
